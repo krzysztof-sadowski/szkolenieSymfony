@@ -1,0 +1,7 @@
+hello:
+    path:     /hello/{name}
+    defaults: { _controller: KrzysiekZad1Bundle:Hello:hello }
+
+goodbye_controller:
+    resource: "@KrzysiekZad1Bundle/Controller/GoodbyeController.php"
+    type:     annotation

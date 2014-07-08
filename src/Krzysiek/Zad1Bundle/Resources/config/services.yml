@@ -1,0 +1,7 @@
+parameters:
+#    krzysiek_zad1.example.class: Krzysiek\Zad1Bundle\Example
+
+services:
+#    krzysiek_zad1.example:
+#        class: %krzysiek_zad1.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]

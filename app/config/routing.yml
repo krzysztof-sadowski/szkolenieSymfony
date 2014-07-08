@@ -1,0 +1,8 @@
+krzysiek_zad1:
+    resource: "@KrzysiekZad1Bundle/Resources/config/routing.yml"
+    prefix:   /krzysiek
+
+acme_test:
+    resource: "@AcmeTestBundle/Resources/config/routing.yml"
+    prefix:   /
+
